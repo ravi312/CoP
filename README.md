@@ -22,18 +22,6 @@
 - difficult to identify communities of practice, widespread mastery, traditions of centripetal participation leading to changing identities of mastery
 - How a socially situated theory of learning reveals the problematic character social-institutional arrangements of schools and workplaces that are intended to bring about learning in the world in which we live? 
 
-	
-## Why is learning problematic in the modern world?
-
-- Alienation (Marxist social theory)
-	- To commoditize labour, knowledge, and participation in communities of practice is to diminish possibilities for the sustained development of identities of mastery.
-	- It is difficult to move from peripheral to full participation in today's world (including workplaces and schools), thereby developing knowledgeably skilled identities. 
-- Schools as sites for the production of elite knowledge disjointed from the everyday activity ( vocational - formal divide)
-
-
->- separate identity from intended forms of knowledgeable practice
->- truncate both the movement from peripheral to full participation 
->- limit the scope of knowledgeable skill
 
 ## Theoretical approaches to situated activity
 
@@ -98,9 +86,31 @@ activity (hence differ from teacher/pupil)
 	- oldtimers give testimony about their drinking past and the course of the process of becoming sober
 	- reconstruction of identity, through the process of construction of these life stories
 
-		
 
-## How communities of practice and cultural processes of identity construction shape each other ?
+## Historical analysis, communities, and Cognition
+
+- The process of becoming a full practitioner in a community of practice involves two kinds of production: the production of continuity with, and the displacement of, the practice of oldtimers (Lave & Wenger, 1991) Newcomers and oldtimers are dependent on each other
+- construction of practitioners' identities is a collective enterprise. Without participation with others, there may be no basis for lived identity
+
+## Why is learning problematic in the modern world?
+
+- conditions for learning in contemporary society limit the possibility of mastery
+- Alienation (Marxist social theory)
+	- To commoditize labour, knowledge, and participation in communities of practice is to diminish possibilities for the sustained development of identities of mastery.
+	- It is difficult to move from peripheral to full participation in today's world (including workplaces and schools), thereby developing knowledgeably skilled identities. 
+- Schools as sites for the production of elite knowledge disjointed from the everyday activity ( vocational - formal divide)
+- Schools and school-like workplace educational enterprises accord knowledgeable skill a reified existence, turning it into something to be "acquired" and its transmission into an institutionai motive
+	- **generation of negatively valued identities**
+	- **formation of ad hoc, interstitial nature of communities of practice**
+
+
+>- separate identity from intended forms of knowledgeable practice
+>- truncate both the movement from peripheral to full participation 
+>- limit the scope of knowledgeable skill
+
+## Conclusion
+
+### How communities of practice and cultural processes of identity construction shape each other ?
 
 - conceptual interdependencies among person, activity, knowledge, world that recommends a conception of learning as "legitimate peripheral participation in the communities of practise"
 - Lave argued that relations between subjects and objects in the world are shaped by their cultural and historical circumstances in processes that involve the subjectification of objects and the objectification of persons, and that often generate negative identities and ad hoc communities of practice.
@@ -108,11 +118,7 @@ activity (hence differ from teacher/pupil)
 - Objectifying persons and the personalizing of commodities are situated principles of thought and interpretation. as well as structural principles in the formation of communities of practice.
 
 
-#### Open questions
-
-- understanding interrelations of communities; formation of valued identities of mastery through legitimate peripheral participation
-- questions revolve around issues of legitimate access, conflictual conditions for mastery
-- learning: strongly valued participation and deeply transformed forms of understanding
+- need to understand interrelations of communities; formation of valued identities of mastery through legitimate peripheral participation
 - there is a great deal to be learned about communities of practice and the community's knowledgeable skill in schools and workplaces that cannot be learned if institutional boundaries and programs are assumed to define the lived character of social practice
 - communities make possible certain kinds of transformations of 
 understanding, identity, and knowledgeable skill
@@ -120,21 +126,7 @@ understanding, identity, and knowledgeable skill
 #### What are the conditions that make deep transformations possible? (newcomers becoming oldtimers)
 
 - near peers relations (facilitate sharing of knowledgeable skill)
+- exemplar master 
 
 
 > "close examination of ongoing social practice as the key is understanding situated learning"
-
-
-
-
-
-
-
-
-- There are structuring relations between the scope of participation (and potential mastery) in communities and the production of that scope in relations of commodification and the characteristics of divided forms of labor- there are structuring relations between institutional social arrangements and the conjunctive and disjunctive character of communities of practice therein
-	- 
-
-
-
-
-
